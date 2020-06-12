@@ -1,22 +1,12 @@
 # firstTest
 just test....
-# 제목 1
-## 제목 2
-### 제목 3
-#### 제목 4
-##### 제목 5
-###### 제목 6
--연습1
+# Git-Tutorial
+## Git-Tutorial2
+### Git-Tutorial3
+#### Git-Tutorial4
+##### Git-Tutorial5
+###### Git-Tutorial6
 
-+연습1-2
-
-연습2
-
-연습3
-
-~연습4
-
-*연습5
 
 
 이텔릭체는 *별표 하나* 혹은 _언더바 하나_ 를 사용한다.
